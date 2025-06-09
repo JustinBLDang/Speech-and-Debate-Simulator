@@ -6,6 +6,11 @@ using TMPro;
 using OpenAI_API.Chat;
 using OpenAI_API.Models;
 
+/*
+    Installation: https://docs.google.com/presentation/d/1g94VJG3PalxwNh2Q00Z3IMSJGvjVDHMjvUcSvdno37o/edit?usp=sharing
+    ChatGPT API wrapper: https://github.com/OkGoDoIt/OpenAI-API-dotnet
+*/
+
 class ChatGPTScript : MonoBehaviour
 {
     OpenAIAPI api;
